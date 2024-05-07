@@ -35,3 +35,6 @@ Esta é a minha jornada de estudo para me tornar um profissional DevOps. A segui
 16. **Kubernetes**: Essencial para aprender sobre orquestração de contêineres, o que é fundamental para gerenciar aplicações distribuídas e escaláveis em ambientes DevOps.
 
 Esses cursos juntos fornecem uma base sólida em uma variedade de áreas essenciais para um profissional DevOps, incluindo desenvolvimento, operações, automação, infraestrutura e gerenciamento de contêineres.
+
+
+<img align="center" alt="Java" height="600" width="800" src="https://blog.4linux.com.br/wp-content/uploads/2019/06/Devops1-1900x1241_c.jpeg">
